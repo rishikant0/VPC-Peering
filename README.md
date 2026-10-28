@@ -4,7 +4,8 @@ A hands-on AWS networking project demonstrating secure communication between two
 
 ## 🏗️ Architecture Diagram
 
-![AWS VPC Peering Architecture](architecture.png)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/833fedb8-a7ee-4ae3-958a-0d1b74260b33" />
+
 
 ### Project Workflow
 
